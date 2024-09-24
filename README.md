@@ -1,0 +1,1 @@
+# Docker-ELK-Vote-Swarm
