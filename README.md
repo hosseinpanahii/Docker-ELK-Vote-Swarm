@@ -17,7 +17,7 @@
 mkdir u22.04-autoinstall-ISO
 cd u22.04-autoinstall-ISO
 mkdir source-files
-wget https:https://releases.ubuntu.com/jammy/ubuntu-22.04.5-live-server-amd64.iso
+wget https://releases.ubuntu.com/jammy/ubuntu-22.04.5-live-server-amd64.iso
 
 ```
 
